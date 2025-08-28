@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-# 💫 About Me:
 We are [Owqlo](https://owqlo.biz) — a tech company focused on transforming sports event management through smart, scalable, and user-friendly digital solutions. Our platform helps clubs, leagues, and sports organizations streamline their operations, manage athlete data, and enhance fan engagement.
 
 <br>We build cross-platform apps with Flutter, deliver modern web experiences with Vue, and power our backend with Node.js and scalable cloud services.
